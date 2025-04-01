@@ -4,6 +4,7 @@ What's up? hey\|you
 
 I am an awesome student at Lehigh, you should hire me!
 
+
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
@@ -20,7 +21,7 @@ _**[Natural language processing 10-Ks to identify Return Trends](portfolio/repor
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="report/report/output_10_0.png"/>
+<img src="portfolio/report/output_8_0.png?raw=true"/>
 
 ---
 
