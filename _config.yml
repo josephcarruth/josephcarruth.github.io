@@ -1,13 +1,11 @@
 title: Joseph Carruth # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
+  
   <br><br>
   <a href="https://www.linkedin.com/in/joseph-carruth/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="pdf/Joseph Carruth - Professional Resume/" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
