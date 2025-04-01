@@ -20,7 +20,7 @@ _**[Natural language processing 10-Ks to identify Return Trends](portfolio/repor
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/report/output_10_0.png"/>
 
 ---
 
