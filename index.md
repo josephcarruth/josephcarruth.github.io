@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="[https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Flehighsports.com%2Fimages%2F2025%2F3%2F11%2FJoseph_Carruth.jpg&width=100&height=100&gravity=north&type=webp]" width="50%">
 </p>
 
 ---
