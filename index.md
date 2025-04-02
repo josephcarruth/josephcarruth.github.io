@@ -1,8 +1,9 @@
-## About Me
+## About
 
-What's up? hey\|you
+Austin, Tx Born&Raised 
 
-I am an awesome student at Lehigh, you should hire me!
+Majored in Mechanical Engineering and Finance through the Integrated Business and Engineering Honors Program at Lehigh University. Minors in Economics and Aerospace Engineering. 
+
 
 
 <!-- Upload your own photo and change the path -->
@@ -33,7 +34,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Futuristic Business Jet](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -47,16 +48,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Combining MechE + Fin degrees in useful ways in the financial sector. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+Rower at Lehigh University
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
