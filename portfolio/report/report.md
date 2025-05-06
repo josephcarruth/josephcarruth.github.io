@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Sentiment and Returns Analysis for S&P500 firms
 By: Joseph Carruth
 

@@ -1,13 +1,15 @@
-## About Joseph
+## About
+
+Austin, Tx Born&Raised 
+
+Majored in Mechanical Engineering and Finance through the Integrated Business and Engineering Honors Program at Lehigh University. Minors in Economics and Aerospace Engineering. 
 
 
-
-Graduating from Lehigh University with Degrees in Mechanical Engineering and Finance. 
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/josephcarruth/josephcarruth.github.io/raw/master/images/headshotjrc.webp" alt="Avatar" width="30%" style="border-radius:20%;">
+  <img class="img-circle" src="https://github.com/josephcarruth/josephcarruth.github.io/raw/master/images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:50%;">
 </p>
 
 ---
@@ -16,19 +18,11 @@ Graduating from Lehigh University with Degrees in Mechanical Engineering and Fin
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Fitting Neural Networks to Predict Asset Returns]()**_
-
-
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Natural language processing 10-Ks to identify Return Trends]()**_
+_**[Natural language processing 10-Ks to identify Return Trends](portfolio/report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="portfolio/report/output_8_0.png?raw=true"/>
 
 ---
 
@@ -40,7 +34,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Futuristic Business Jet](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -54,16 +48,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Combining MechE + Fin degrees in useful ways in the financial sector. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+Rower at Lehigh University
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
