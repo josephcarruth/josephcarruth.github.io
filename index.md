@@ -1,13 +1,13 @@
-## About Me
+## About Joseph
 
-What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
+
+Graduating from Lehigh University with Degrees in Mechanical Engineering and Finance. 
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/josephcarruth/josephcarruth.github.io/raw/master/images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:50%;">
+  <img class="img-circle" src="https://github.com/josephcarruth/josephcarruth.github.io/raw/master/images/headshotjrc.webp" alt="Avatar" width="30%" style="border-radius:20%;">
 </p>
 
 ---
@@ -15,6 +15,14 @@ I am an awesome student at Lehigh, you should hire me!
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+
+_**[Fitting Neural Networks to Predict Asset Returns]()**_
+
+
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 _**[Natural language processing 10-Ks to identify Return Trends]()**_
 
