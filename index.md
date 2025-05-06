@@ -1,15 +1,21 @@
-## About
+## About 
 
-Austin, Tx Born&Raised 
+Recent Graduate of Lehigh University. My undergraduate scope as a Mechanical Engineering Major and Finance major provided me the ability to explore a wide range of topics, industries, and intellectual endeavors. I was able to pursue and obtain minors in both Aerospace Engineering and Economics, highlighting a strong interest in the intersection of technology and business.
 
-Majored in Mechanical Engineering and Finance through the Integrated Business and Engineering Honors Program at Lehigh University. Minors in Economics and Aerospace Engineering. 
+Alongside my academic pursuits, I was a member of the Lehigh University Men's Rowing team, where I competed in the 1st Varsity 8+ boat for all 4 years, receiving numerous personal and team accolades as I gained invaluable experience in teamwork, leadership, and relentless dedication. I also served as the Vice President of the Engineering Honors Society, Tau Beta Pi, the oldest and original chapter of the Engineering Honor Society in the United States.
+
+In my final semester, I took a course with
+              <a
+                className="text-sky-700"
+                href="http://bowen.finance/"
+              >
+                Donald Bowen
+              </a> titled Advanced Data Science for Investments. My work consisted of creating various event studies, including home price predictors, a natural language processor to forecast returns from 10-K filings, and a Neural Network to predict asset returns. In that same span, I modeled a business jet for former NASA Astronaut Terry Hart's course, Aircraft Design. The aircraft was designed following rigorous aerodynamic analysis, and utilizing OpenVSP software I was able to model and test the aircraft.
 
 
-
-<!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/josephcarruth/josephcarruth.github.io/raw/master/images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:50%;">
+  <img class="img-circle" src="images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:200%;">
 </p>
 
 ---
