@@ -15,7 +15,7 @@ In my final semester, I took a course with
 
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:200%;">
+  <img class="img-circle" src="images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:20%;">
 </p>
 
 ---
@@ -26,27 +26,25 @@ In my final semester, I took a course with
 
 _**[Natural language processing 10-Ks to identify Return Trends](portfolio/report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="portfolio/report/output_8_0.png?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Home Price Stacked Regression Predictor](portfolio/stacked%20regressors/model/model.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Futuristic Business Jet](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="portfolio/stacked regressors/model/output_19_0.png"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Fitting Neural Networks to Predict Asset Returns](lehigh-asset-pricing.streamlit.app)**_
+
+<img src="portfolio/stock_predictor_project/output_71_0.png">
+
+---
+
+_**[Futuristic Business Jet](pdf/Mech328ClassOverview_GoogleDocs.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
