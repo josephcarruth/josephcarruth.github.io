@@ -49,13 +49,11 @@
 
 _**[Natural language processing 10-Ks to identify Return Trends](portfolio/report/report.md)**_
 
-
 <img src="portfolio/report/output_8_0.png?raw=true"/>
 
 ---
 
 _**[Home Price Stacked Regression Predictor](portfolio/stacked%20regressors/model/model.md)**_
-
 
 <img src="portfolio/stacked regressors/model/output_19_0.png"/>
 
@@ -69,7 +67,7 @@ _**[Fitting Neural Networks to Predict Asset Returns](lehigh-asset-pricing.strea
 
 _**[Futuristic Business Jet](pdf/Mech328ClassOverview_GoogleDocs.pdf)**_
 
-<img src="images/plane.jpeg?raw=true"/>
+<img src="images/plane.jpeg"/>
 
 ---
 
@@ -90,5 +88,6 @@ Running
 Golf
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
