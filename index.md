@@ -38,7 +38,6 @@
 <p style="text-align:center;">
   <img class="img-circle" src="images/rowing.JPG" width="50%" style="border-radius:20%;">
 </p>
-
 ---
 
 ## Portfolio
@@ -48,31 +47,26 @@
 _**[Natural language processing 10-Ks to identify Return Trends](portfolio/report/report.md)**_
 
 <img src="portfolio/report/output_8_0.png"/>
-
 ---
 
 _**[Home Price Stacked Regression Predictor](portfolio/stacked%20regressors/model/model.md)**_
 
 <img src="portfolio/stacked regressors/model/output_19_0.png"/>
-
 ---
 
 _**[Fitting Neural Networks to Predict Asset Returns](lehigh-asset-pricing.streamlit.app)**_
 
 <img src="portfolio/stock_predictor_project/output_71_0.png">
-
 ---
 
 _**[Futuristic Business Jet](pdf/Mech328ClassOverview_GoogleDocs.pdf)**_
 
 <img src="images/plane.jpeg"/>
-
 ---
 
 ## Career Objectives
 
 Combining MechE + Fin degrees in useful ways in the financial sector. 
-
 ---
 
 ## Hobbies
@@ -84,7 +78,6 @@ Coffee Enthusiast
 Running
 
 Golf
-
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
