@@ -35,10 +35,8 @@
       </p>
       <div className="container flex justify-between py-4">
           
-
-
 <p style="text-align:center;">
-  <img class="img-circle" src="images/headshotjrc.webp" alt="Avatar" width="20%" style="border-radius:20%;">
+  <img class="img-circle" src="images/rowing.JPG" width="50%" style="border-radius:20%;">
 </p>
 
 ---
@@ -49,7 +47,7 @@
 
 _**[Natural language processing 10-Ks to identify Return Trends](portfolio/report/report.md)**_
 
-<img src="portfolio/report/output_8_0.png?raw=true"/>
+<img src="portfolio/report/output_8_0.png"/>
 
 ---
 
