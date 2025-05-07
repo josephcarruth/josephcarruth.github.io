@@ -82,9 +82,13 @@ Combining MechE + Fin degrees in useful ways in the financial sector.
 ## Hobbies
 
 Rower at Lehigh University
+
 Coffee Enthusiast
+
 Running
+
 Golf
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
