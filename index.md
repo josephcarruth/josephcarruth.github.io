@@ -1,18 +1,18 @@
 
 <div className="col-span-4">
-  <h1 className="text-4xl font-light">Joseph Carruth</h1>
+  <h1 className="text-4xl font-light">About</h1>
       <h2 className="py-2 text-lg font-light text-gray-500">
           Mechanical Engineering and Finance Graduate
       </h2>
-      <div className="leading-sm inline-flex items-center rounded-full border bg-sky-200 px-3 py-1 text-xs uppercase text-sky-700">
-              Financial Modeling
-      </div>
-      <div className="leading-sm inline-flex items-center rounded-full border bg-green-200 px-3 py-1 text-xs  uppercase text-green-700">
+     <div style="display: inline-flex; align-items: center; border-radius: 9999px; border: 1px solid #0ea5e9; background-color: #bae6fd; padding: 0.25rem 0.75rem; font-size: 0.75rem; text-transform: uppercase; color: #0369a1; margin-right: 8px;">
+    Financial Modeling
+    </div>
+    <div style="display: inline-flex; align-items: center; border-radius: 9999px; border: 1px solid #22c55e; background-color: #bbf7d0; padding: 0.25rem 0.75rem; font-size: 0.75rem; text-transform: uppercase; color: #15803d; margin-right: 8px;">
       Mechanical Design
-      </div>
-      <div className="leading-sm inline-flex items-center rounded-full border bg-violet-200 px-3 py-1 text-xs uppercase text-violet-700">
-       Data Science 
-      </div>
+    </div>
+    <div style="display: inline-flex; align-items: center; border-radius: 9999px; border: 1px solid #a78bfa; background-color: #ddd6fe; padding: 0.25rem 0.75rem; font-size: 0.75rem; text-transform: uppercase; color: #6d28d9; margin-bottom: 20px;">
+      Data Science
+    </div>
       <p className="py-2 text-justify font-light text-gray-600">
        Recent Graduate of
       <a href="https://www.lehigh.edu/" className="text-sky-700">
