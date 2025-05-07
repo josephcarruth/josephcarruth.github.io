@@ -3,12 +3,7 @@ logo: "/images/headshotjrc.webp" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
   <br><br>
-  # <a href="https://www.linkedin.com/in/joseph-carruth/">LinkedIn</a> 
-  # <br>
-  # <a href="pdf/Joseph Carruth - Professional Resume.pdf" class="btn btn--info">Resume</a>  
-  # <br>
-  # <a href="https://www.GitHub.com/josephcarruth/">GitHub</a>  
-  
+
   <div>
               <img className="inline w-6"
                 src="https://img.icons8.com/fluency/48/000000/github.png"/>
