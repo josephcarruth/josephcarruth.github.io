@@ -4,48 +4,23 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br><br>
 
-  <div>
-              <img className="inline w-6"
-                src="https://img.icons8.com/fluency/48/000000/github.png"/>
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="https://github.com/josephcarruth"
-                  >
-                    @josephcarruth
-                  </a>
-                </span>
-          </div>
-              <div>
-                <img
-                  className="inline w-6"
-                  src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-                />
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="https://www.linkedin.com/in/joseph-carruth/"
-                  >
-                    @joseph-carruth
-                  </a>
-                </span>
-              </div>
-              <div>
-                <img
-                  className="inline w-6"
-                  src="https://img.icons8.com/color/48/000000/pdf.png"
-                />
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="PDF/Joseph Carruth - Professional Resume.pdf"
-                  >
-                    Resume.pdf
-                  </a>
-                </span>
-              </div>
-            </div>
-            <hr />
-          </div>
+  <span>
+    <img style="vertical-align: middle; width: 20px;" src="https://img.icons8.com/fluency/48/000000/github.png"/>
+    <a href="https://github.com/josephcarruth" style="font-size: 0.9rem; color: #0369a1;">
+      @josephcarruth
+    </a>
+  </span>
+  <span style="margin-left: 10px;">
+    <img style="vertical-align: middle; width: 20px;" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <a href="https://www.linkedin.com/in/joseph-carruth/" style="font-size: 0.9rem; color: #0369a1;">
+      @joseph-carruth
+    </a>
+  </span>
+  <span style="margin-left: 10px;">
+    <img style="vertical-align: middle; width: 20px;" src="https://img.icons8.com/color/48/000000/pdf.png"/>
+    <a href="pdf/Joseph Carruth - Professional Resume.pdf" style="font-size: 0.9rem; color: #0369a1;">
+      Resume.pdf
+    </a>
+  </span>
   
 theme: jekyll-theme-minimal
