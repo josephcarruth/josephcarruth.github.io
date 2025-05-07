@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Assignment 8 
 
 Steps to this assignment. 

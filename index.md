@@ -56,7 +56,7 @@ _**[Home Price Stacked Regression Predictor](portfolio/stacked%20regressors/mode
 
 ---
 
-_**[Fitting Neural Networks to Predict Asset Returns](lehigh-asset-pricing.streamlit.app)**_
+_**[Fitting Neural Networks to Predict Asset Returns](https://lehigh-asset-pricing.streamlit.app)**_
 
 <img src="portfolio/stock_predictor_project/output_71_0.png">
 
