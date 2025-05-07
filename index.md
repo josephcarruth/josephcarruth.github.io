@@ -50,9 +50,9 @@ _**[Natural language processing 10-Ks to identify Return Trends](portfolio/repor
 
 ---
 
-_**[Home Price Stacked Regression Predictor](portfolio/stacked%20regressors/model/model.md)**_
+_**[Home Price Stacked Regression Predictor](portfolio/stackedregressors/model/model.md)**_
 
-<img src="portfolio/stacked regressors/model/output_19_0.png"/>
+<img src="portfolio/stackedregressors/model/output_19_0.png"/>
 
 ---
 
