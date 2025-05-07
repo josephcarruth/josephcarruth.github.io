@@ -18,8 +18,10 @@
       <a href="https://www.lehigh.edu/" className="text-sky-700">
       Lehigh University 
       </a>
-      . My undergraduate scope as a Mechanical Engineering Major and Finance
-       major provided me the ability to explore a wide range of topics, industries, 
+      . My undergraduate scope as a Mechanical Engineering and Finance
+       major through the Lehigh <a href="https://ibe.lehigh.edu/" className="text-sky-700">
+      Integrated Business and Engineering Honors Program 
+      </a>provided me the ability to explore a wide range of topics, industries, 
        and intellectual endeavors. I was able to pursue and obtain minors in both Aerospace Engineering and Economics, highlighting a strong interest in the intersection of technology and business. 
       </p>
       <p className="text-justify font-light text-gray-600">
@@ -32,49 +34,7 @@
       In that same span, I modeled a business jet for former NASA Astronaut Terry Hart's course, Aircraft Design. The aircraft was designed following rigorous aerodynamic analysis, and utilizing OpenVSP software I was able to model and test the aircraft.
       </p>
       <div className="container flex justify-between py-4">
-          <div>
-              <img className="inline w-6"
-                src="https://img.icons8.com/fluency/48/000000/github.png"/>
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="https://github.com/josephcarruth"
-                  >
-                    @josephcarruth
-                  </a>
-                </span>
-          </div>
-              <div>
-                <img
-                  className="inline w-6"
-                  src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-                />
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="https://www.linkedin.com/in/joseph-carruth/"
-                  >
-                    @joseph-carruth
-                  </a>
-                </span>
-              </div>
-              <div>
-                <img
-                  className="inline w-6"
-                  src="https://img.icons8.com/color/48/000000/pdf.png"
-                />
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="PDF/Joseph Carruth - Professional Resume.pdf"
-                  >
-                    Resume.pdf
-                  </a>
-                </span>
-              </div>
-            </div>
-            <hr />
-          </div>
+          
 
 
 <p style="text-align:center;">
@@ -109,7 +69,7 @@ _**[Fitting Neural Networks to Predict Asset Returns](lehigh-asset-pricing.strea
 
 _**[Futuristic Business Jet](pdf/Mech328ClassOverview_GoogleDocs.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/plane.jpeg?raw=true"/>
 
 ---
 
